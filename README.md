@@ -14,7 +14,7 @@ pip install pandas numpy scikit-learn
 3. Clone the repository
 
 ```
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/CireWire/musical-broccoli.git
 ```
 
 ## Usage
